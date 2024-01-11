@@ -1,4 +1,4 @@
-<h1>TCP Chat App</h1>
+<h1>Spring Chat App</h1>
 <br>
 
 TCP Chat App is a real-time chat application built using Spring Boot and WebSocket technology. It allows users to connect, chat in real-time, and experience an interactive chatroom environment.
