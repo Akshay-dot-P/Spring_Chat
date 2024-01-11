@@ -17,8 +17,11 @@ Easy Deployment: The application can be easily deployed, and users can access th
 
 <h2>Technologies Used</h2>
 1)Spring Boot: The backend is powered by the Spring Boot framework, providing a robust and scalable foundation.
+
 2)WebSocket: Utilizes WebSocket technology for real-time bidirectional communication.
+
 3)Bootstrap: Enhances the user interface with Bootstrap for a clean and responsive design.
+
 4)jQuery: Manages DOM manipulation and user interactions using jQuery.
 
 <h2>Getting Started</h2>
@@ -45,7 +48,7 @@ java -jar target/chatroomapp-0.0.1-SNAPSHOT.jar
 
 <h3>Access the chatroom:</h3>
 
-Open your web browser and navigate to http://localhost:8080.
+Open your web browser and navigate to http://localhost:9090.
 
 <h2>Usage</h2>
 Enter your name in the provided form on the login screen.
