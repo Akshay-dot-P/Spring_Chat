@@ -1,4 +1,8 @@
+TCP Chat App
+TCP Chat App is a real-time chat application built using Spring Boot and WebSocket technology. It allows users to connect, chat in real-time, and experience an interactive chatroom environment.
+
 Features
+
 Real-Time Communication: Utilizes WebSocket programming for bidirectional communication, enabling users to exchange messages in real-time.
 
 User-Friendly Interface: Provides a simple and user-friendly interface with a login form, message input, and dynamic message display.
