@@ -29,21 +29,18 @@ Node.js (for web development dependencies)
 Installation
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/Akshay-dot-P/Tcp-chat-app.git
 cd Tcp-chat-app
 
 <h3>Build the project:</h3>
 
-bash
-Copy code
+
 mvn clean install
 
 <h3>Run the application:</h3>
 
-bash
-Copy code
+
 java -jar target/chatroomapp-0.0.1-SNAPSHOT.jar
 
 <h3>Access the chatroom:</h3>
